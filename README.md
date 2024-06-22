@@ -2,7 +2,7 @@
 
 ❗NOTE: Esse repositório foi desenvolvido durante o curso no qual fui instruida pelo técnico Felipe Aguiar na plataforma do [DIO](https://web.dio.me/home)
 
-🎧 [Clique para ouvir TechHerStory]()
+🎧 [Clique para ouvir TechHerStory](https://github.com/sbdaniely/podcast-dio/blob/main/PILOTO%20-%20TECHERSTORY.mp4)
 
 ##  Tecnologias utilizadas no projeto
 ChatGPT
